@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="container" class="container" platform="ios">
+		<View id="bottomtoolbar" class= "bottomtoolbar">
+			<View id="toolbar_container" class="toolbar_container"/>
+			<Button id="map_btn" class="btn_tab"/>
+			<Button id="list_btn" class="btn_tab"/>
+			<Button id="favorite_btn" class = "btn_tab"/>
+			<Button id="setting_btn" class="btn_tab"/>
+		</View>
+	</Window>
+</Alloy> 

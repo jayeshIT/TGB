@@ -1,0 +1,58 @@
+"#container": {
+	left: 0,
+	right: 0,
+	height: 49,
+	bottom: 0
+},
+".bottomtoolbar":
+{
+	bottom: 0,
+	height: 49,
+	width: 320,
+	backgroundColor: 'transparent'
+},
+".toolbar_container":
+{
+	bottom: 0,
+	height: 49,
+	left: 0,
+	right: 0,
+	backgroundImage: '/TabPanel.png'
+},
+"#map_btn":
+{
+	left: 0,
+	width: 80,
+	height: 49,
+	backgroundImage: '/images/map_SE.png',
+	backgroundDisabledImage: "",
+	backgroundFocusedImage: ""
+},
+"#list_btn":
+{
+	left: 80,
+	width: 80,
+	height: 49,
+	backgroundImage: '/images/list_DSE.png',
+	backgroundFocusedImage: "",
+	backgroundDisabledImage: ""
+},
+"#favorite_btn":
+{
+	left: 160,
+	width: 80,
+	height: 49,
+	backgroundImage: '/images/favourite_DSE.png',
+	backgroundFocusedImage: "",
+	backgroundDisabledImage: ""
+},
+
+"#setting_btn":
+{
+	left: 240,
+	width: 80,
+	height: 49,
+	backgroundImage: '/images/settings_DSE.png',
+	backgroundFocusedImage: "",
+	backgroundDisabledImage: ""
+}

@@ -1,0 +1,18 @@
+<Alloy>
+	<TabGroup id="tabgroup" platform="ios">
+		<Tab id="tab0" tabindex="0">
+			<Require src="win_map" type="view" id="window_map"/>
+		</Tab>
+		<Tab id="tab1" tabindex="1">
+			<Require src="win_list" type="view" id="window_list"/>
+		</Tab>
+		<Tab id="tab2" tabindex="2">
+			<Require src="win_favorite" type="view" id="window_favorite"/>
+		</Tab>
+		<Tab id="tab3" tabindex="3">
+			<Require src="win_setting" type="view" id="window_setting"/>
+		</Tab>
+	</TabGroup>
+	<Window class="container" id="container" platform="android">
+	</Window>
+</Alloy>

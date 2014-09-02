@@ -1,0 +1,4 @@
+".container": {
+	orientationModes: [Titanium.UI.PORTRAIT],
+	backgroundColor: 'black'
+}

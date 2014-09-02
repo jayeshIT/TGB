@@ -1,0 +1,6 @@
+"#win_list":
+{
+	bottom : "49dp",
+	o: "win_list",
+	backgroundColor: 'white'
+}

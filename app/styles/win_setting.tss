@@ -1,0 +1,7 @@
+"#win_setting":
+{
+	//bottom: Alloy.CFG.UI.bottom_tab_height,
+	bottom: "49dp",
+	o: "win_setting",
+	backgroundColor: 'white'
+}

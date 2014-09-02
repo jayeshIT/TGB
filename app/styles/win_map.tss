@@ -1,0 +1,7 @@
+"#win_map":
+{
+	//bottom: Alloy.CFG.UI.bottom_tab_height,
+	bottom: "49dp",
+	o: "win_map",
+	backgroundColor: 'white'
+},

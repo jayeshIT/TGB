@@ -1,0 +1,6 @@
+"#win_favorite":
+{
+	bottom: "49dp",
+	o: 'win_favorite',
+	backgroundColor: 'white'
+}
